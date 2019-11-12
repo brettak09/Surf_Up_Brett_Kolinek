@@ -14,4 +14,17 @@ Weather data from 9 different weather stations were captured.  Using matplotlib 
 
 ### Technologies Used
 
-### Modules
+- SQlite
+- Flask 
+- Jupyter Notebook
+- Python
+
+### Modules Used
+
+- Pandas
+- SQLAlchemy
+- datetime
+- Matplotlib
+- numpy
+- pandas read SQL
+
